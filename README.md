@@ -43,20 +43,22 @@ I enjoy working with both frontend and backend technologies to create seamless u
 
 ---
 
-### 🕒 Git Streak
+### 🕒 GitHub Streak
 
 <div align="center">
 
+
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=md-sh-sabbir&theme=dark" alt="GitHub Streak" /></a>
 </div>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=md-sh-sabbir&theme=dark)](https://git.io/streak-stats) -->
 
 ---
 
 ### 📫 Where to Find Me
 
 <div align="center">
-  <a href="https://www.facebook.com/sh.sabbir.578675/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/md-sabbir-hossain-7730b628b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/sh.sabbir.578675/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/md-sabbir-hossain-7730b628b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
