@@ -43,7 +43,7 @@ I enjoy working with both frontend and backend technologies to create seamless u
 
 ---
 
-### ✅ Git Streak
+### 🕒 Git Streak
 
 <div align="center">
 
