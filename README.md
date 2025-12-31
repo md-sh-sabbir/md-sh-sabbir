@@ -52,6 +52,15 @@ I enjoy working with both frontend and backend technologies to create seamless u
 
 ---
 
+### 📫 Where to Find Me
+
+<div align="center">
+  <a href="https://www.facebook.com/sh.sabbir.578675/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/md-sabbir-hossain-7730b628b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=100:61dafb,0:0a192f&height=120&section=footer"/>
 </div>
