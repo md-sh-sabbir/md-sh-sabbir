@@ -43,12 +43,11 @@ I enjoy working with both frontend and backend technologies to create seamless u
 
 ---
 
+### ✅ Git Streak
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-sh-sabbir&show_icons=true&theme=react&hide_border=true&bg_color=0,0a192f,23272f&title_color=61dafb&icon_color=61dafb" alt="Sabbir's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-sh-sabbir&theme=react&hide_border=true&background=0a192f&stroke=61dafb" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=md-sh-sabbir&bg_color=0a192f&color=61dafb&line=61dafb&point=0a192f&area=true&hide_border=true" alt="Activity Graph" />
+
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=md-sh-sabbir&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ---
