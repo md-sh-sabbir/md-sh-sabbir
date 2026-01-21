@@ -50,7 +50,7 @@ I enjoy working with both frontend and backend technologies to create seamless u
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=md-sh-sabbir&theme=dark" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-sh-sabbir&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=md-sh-sabbir&theme=dark)](https://git.io/streak-stats) -->
 
 ---
 
